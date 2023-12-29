@@ -4,6 +4,9 @@ build
 bin/
 bin-int/
 
+*.o
+*.d
+
 # Visual Studio clutter
 _ReSharper*
 *.sdf
